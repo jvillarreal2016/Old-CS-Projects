@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1542157694 source:c:\users\jvill\documents\computer science fall 2018\project 8\main.cpp
+	<iostream>
+	<iomanip>
+	<string.h>
+	<stdlib.h>
+	<stdio.h>
+	<fstream>
+	<sstream>
+	<vector>
+	"StudentRecords.h"
+
+1542125372 c:\users\jvill\documents\computer science fall 2018\project 8\studentrecords.h
+	<iostream>
+	<sstream>
+
+1542126763 source:c:\users\jvill\documents\computer science fall 2018\project 8\studentrecords.cpp
+	"StudentRecords.h"
+	<iostream>
+	<iomanip>
+	<string.h>
+	<stdlib.h>
+	<stdio.h>
+	<fstream>
+	<sstream>
+
